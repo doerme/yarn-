@@ -1,4 +1,4 @@
-# 取代 npm 的新利器 Yarn
+# [译]取代 npm 的新利器 Yarn
 日前，Facebook 发布了全新的 JS 包管理工具 Yarn，如果你常发生以下几个问题，我想 Yarn 会是你的解决方案
 
 1. 「同事电脑 npm install OK，我却 npm install 挂掉」，通常就是因为包内部相依关系与你之前的文件冲突，所以只好常常得先 sudo rm -rf node_modules/ 再重新安装。
